@@ -8,7 +8,7 @@ Constantly evolving programming student with skills in JavaScript, Python, and J
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [guidomontoya795@gmail.com](mailto:guidomontoya795@gmail.com)
-* 🧠  I'm learning Asyncio
+* 🧠  Async io apassionate 
 
 ### Skills
 
