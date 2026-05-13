@@ -1,22 +1,51 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrés Felipe Guido
-===========================================================================================================================================
+# Andres Felipe Guido
 
-Engineering student
--------------------
+**Software engineering student focused on Python, TypeScript, automation and developer tools.**
 
-Constantly evolving programming student with skills in JavaScript, Python, and Java. Experienced in developing desktop and web applications, with a focus on utilizing Tkinter for graphical user interfaces. Passionate about learning and applying new knowledge in challenging projects.
+I build practical projects around backend services, data workflows, IoT integrations and command-line tools. Lately I have been working on open source utilities that help developers improve repository quality and reproducibility.
 
-* 🌍  I'm based in Colombia
-* ✉️  You can contact me at [guidomontoya795@gmail.com](mailto:guidomontoya795@gmail.com)
-* 🧠  Async io apassionate 
+## Current Focus
 
-### Skills
+- Building [`git-health`](https://github.com/AndresGuido9820/git-health), a CLI that audits open source repository quality.
+- Improving reproducible academic and data-science projects with notebooks, CI and clear documentation.
+- Learning deeper backend architecture, async Python, GitHub automation and IoT systems.
 
+## Featured Projects
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+| Project | What it does | Stack |
+|---|---|---|
+| [`git-health`](https://github.com/AndresGuido9820/git-health) | CLI that scores repository health and suggests open source improvements | Python, CLI, Pytest, Ruff |
+| [`optimizacion-metaheuristicas`](https://github.com/AndresGuido9820/optimizacion-metaheuristicas) | Experimental comparison of metaheuristics for benchmark functions and TSP | Python, Jupyter, SciPy, DEAP |
+| [`GithubMarker`](https://github.com/AndresGuido9820/GithubMarker) | Browser extension to identify code authorship on GitHub | JavaScript |
+| [`F-tbol-Data`](https://github.com/AndresGuido9820/F-tbol-Data) | Football data web project | TypeScript |
+
+## Tech Stack
+
+**Languages:** Python, TypeScript, JavaScript, Java  
+**Backend and automation:** FastAPI, Django, async Python, REST APIs, MQTT  
+**Data and scientific computing:** Jupyter, NumPy, SciPy, Pandas, Matplotlib  
+**Frontend:** React, HTML, CSS  
+**Tools:** Git, GitHub Actions, Linux, Docker basics, VS Code
+
+## Open Source Direction
+
+I am interested in small, useful tools that developers can run locally in minutes:
+
+- repository quality checks,
+- notebook reproducibility,
+- environment and configuration validation,
+- IoT and MQTT diagnostics,
+- automation scripts that remove repetitive work.
+
+## Contact
+
+- Location: Medellin, Colombia
+- Email: [guidomontoya795@gmail.com](mailto:guidomontoya795@gmail.com)
+- GitHub: [@AndresGuido9820](https://github.com/AndresGuido9820)
+
+## GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AndresGuido9820&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Andres Guido GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGuido9820&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndresGuido9820&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGuido9820&layout=compact)
-
-
