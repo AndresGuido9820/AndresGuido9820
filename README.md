@@ -43,9 +43,8 @@ I am interested in small, useful tools that developers can run locally in minute
 - Email: [guidomontoya795@gmail.com](mailto:guidomontoya795@gmail.com)
 - GitHub: [@AndresGuido9820](https://github.com/AndresGuido9820)
 
-## GitHub Stats
+## Active Repositories
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AndresGuido9820&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Andres Guido GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGuido9820&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</p>
+- [`git-health`](https://github.com/AndresGuido9820/git-health): open source CLI for repository health checks.
+- [`optimizacion-metaheuristicas`](https://github.com/AndresGuido9820/optimizacion-metaheuristicas): experimental optimization and TSP notebooks.
+- [`GithubMarker`](https://github.com/AndresGuido9820/GithubMarker): browser tooling for GitHub code authorship.
