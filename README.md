@@ -1,8 +1,8 @@
 # Andres Felipe Guido Montoya
 
-**Cloud and Software Engineer building Python, TypeScript, IoT, cloud and AI tooling projects.**
+**Cloud and Software Engineer focused on building reliable systems, useful automation and practical AI integrations.**
 
-I like building practical software: backend services, serverless data pipelines, IoT integrations, RAG systems, automation scripts and command-line tools. My current work mixes production cloud infrastructure, IoT systems, AI automation and developer tooling.
+I work on backend services, serverless data pipelines, IoT integrations and internal tools that turn messy operational processes into maintainable software. My current work mixes production cloud infrastructure, connected devices, AI-assisted workflows and developer tooling.
 
 ## Current Focus
 
